@@ -1,0 +1,12 @@
+├── sql/
+│   ├── create_tables.sql
+│   ├── transformations.sql
+│   ├── streams_tasks.sql
+│
+├── python/
+│   ├── data_generator.py
+│
+├── architecture/
+│   ├── architecture_diagram.png
+│
+├── README.md
